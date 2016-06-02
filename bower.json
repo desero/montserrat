@@ -5,7 +5,7 @@
     "desero <desero@desero.ro>"
   ],
   "description": "Montserrat Webfont with all 8 weights",
-  "main": "",
+  "main": "bower.json",
   "moduleType": [
     "node"
   ],

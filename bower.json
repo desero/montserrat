@@ -1,0 +1,23 @@
+{
+  "name": "montserrat-webfont-family",
+  "homepage": "https://github.com/desero/montserrat",
+  "authors": [
+    "desero <desero@desero.ro>"
+  ],
+  "description": "Montserrat Webfont with all 8 weights",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "montserrat"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
